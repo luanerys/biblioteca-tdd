@@ -1,5 +1,6 @@
 # Controle de Empréstimos de Livros
 
 ## Descrição
-1. Sistema em Java que faz empréstimos de livro de uma biblioteca;
-2. Implementação de TDD com JUnit5.
+Lab01. Implementação de TDD com JUnit5;
+Lab02. Implementação de Testes de Integração;
+Lab03. Implementação de Testes com Mock/Mockito.
